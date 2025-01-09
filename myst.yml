@@ -33,7 +33,7 @@ project:
             - file: docs\sphinx-proof.md
   exports: # build PDF book from all pages
     - format: pdf
-      template: plain_latex_book
+      template: curvenote
     
 site:
   template: book-theme
