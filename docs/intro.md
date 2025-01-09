@@ -36,13 +36,6 @@ We have also added some popular features for Jupyter Book that really you should
 * [sphinx-proof for logic and math, to write proofs, theorems, lemmas etc.](/sphinx-proof)
 
 
-## Table of Contents
-
-Here is an automatically generated Tabel of Contents:
-
-```{tableofcontents}
-```
-
 [github]: https://github.com/readthedocs-examples/example-jupyter-book/ "GitHub source code repository for the example project"
 [tutorial]: https://docs.readthedocs.io/en/stable/tutorial/index.html "Official Read the Docs Tutorial"
 [jb-docs]: https://jupyterbook.org/en/stable/ "Official Jupyter Book documentation"

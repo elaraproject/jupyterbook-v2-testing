@@ -136,3 +136,6 @@ dmypy.json
 
 # Temporary editor files
 *.swp
+
+# Jupyter Book (via myst) build outputs
+_build
